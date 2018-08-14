@@ -1,4 +1,4 @@
-package openssl_channel_proxy
+package main
 
 import (
 	"flag"
