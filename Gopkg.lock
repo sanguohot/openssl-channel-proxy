@@ -3,6 +3,14 @@
 
 [[projects]]
   branch = "master"
+  digest = "1:3b24c148e0865817743e07be1284d6adb2d0e0883fea3f29f52feccbcfe51f96"
+  name = "github.com/sanguohot/openssl-channel-proxy"
+  packages = ["."]
+  pruneopts = "UT"
+  revision = "90a866f18301fd50aefd18db1b701b8b7f7d7294"
+
+[[projects]]
+  branch = "master"
   digest = "1:80d47c7f2eeb0784716af7659820ae0702b5cd5d482614dbc8a27fe73b3a131f"
   name = "github.com/spacemonkeygo/openssl"
   packages = [
@@ -31,6 +39,9 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  input-imports = ["github.com/spacemonkeygo/openssl"]
+  input-imports = [
+    "github.com/sanguohot/openssl-channel-proxy",
+    "github.com/spacemonkeygo/openssl",
+  ]
   solver-name = "gps-cdcl"
   solver-version = 1

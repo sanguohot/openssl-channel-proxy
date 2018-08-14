@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	proxy "openssl-channel-proxy"
+	proxy "github.com/sanguohot/openssl-channel-proxy"
 )
 
 var (
