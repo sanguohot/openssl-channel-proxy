@@ -1,7 +1,7 @@
 # openssl-channel-proxy
 
-As native go does not support tls widely like openssl, I write a proxy for tcp or tls foward to openssl tls.
-So you can connect to some special tls server by the proxy which the native go can not.
+As native go does not support tls widely like openssl, I write a proxy for tcp or tls foward to openssl tls.   
+So you can connect to some special tls server by the proxy which the native go can not.   
 Currently only support tcp, tls will come soon.
 
 ## System required
