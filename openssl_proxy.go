@@ -2,11 +2,11 @@ package openssl_channel_proxy
 
 import (
 	"fmt"
+	"github.com/spacemonkeygo/openssl"
 	"io"
 	"log"
 	"math"
 	"net"
-	"github.com/spacemonkeygo/openssl"
 	"sync"
 )
 

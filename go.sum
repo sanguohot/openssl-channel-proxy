@@ -1,0 +1,8 @@
+github.com/sanguohot/openssl-channel-proxy v0.0.0-20180814084704-90a866f18301 h1:2rzqm1X07USxdW4fT9KxCg5k18Wi9rC7tBht0qXEG5U=
+github.com/sanguohot/openssl-channel-proxy v0.0.0-20180814084704-90a866f18301/go.mod h1:7N2I8rNmpYYBKb5vaYp09kbxR2L/A8KZCi1xAB/M2sI=
+github.com/spacemonkeygo/openssl v0.0.0-20180727012650-5da517866c3d h1:5GflvxInvqU/vUJWA2kUVwhcJwfu7JhhDF5/diPlwOE=
+github.com/spacemonkeygo/openssl v0.0.0-20180727012650-5da517866c3d/go.mod h1:JKl1QDiTtYpJHv851o3JOAAXuFGsp62rZ/h4v1RGTto=
+github.com/spacemonkeygo/spacelog v0.0.0-20180420211403-2296661a0572 h1:RC6RW7j+1+HkWaX/Yh71Ee5ZHaHYt7ZP4sQgUrm6cDU=
+github.com/spacemonkeygo/spacelog v0.0.0-20180420211403-2296661a0572/go.mod h1:w0SWMsp6j9O/dk4/ZpIhL+3CkG8ofA2vuv7k+ltqUMc=
+golang.org/x/sys v0.0.0-20180814072032-4e1fef560951 h1:VfGaXvV9wRnTJreeGDE0FWEDiQP1WWUDmutCjCThDz8=
+golang.org/x/sys v0.0.0-20180814072032-4e1fef560951/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
